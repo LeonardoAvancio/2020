@@ -14,3 +14,7 @@ $myClass = new Index();
 echo $myClass->init = "Hello World Class";
 
 echo "teste";
+
+function name(){
+    echo "Leonardo";
+}
