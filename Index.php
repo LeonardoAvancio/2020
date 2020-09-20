@@ -12,3 +12,5 @@ class Index {
 
 $myClass = new Index();
 echo $myClass->init = "Hello World Class";
+
+echo "teste";
